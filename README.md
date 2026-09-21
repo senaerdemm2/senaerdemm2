@@ -3,7 +3,7 @@
 ### Junior Data Analyst · BI Analyst · Power BI Developer
 **SQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy)**
 
-Recent Computer Engineering graduate with 6 months of Data Analyst / BI internship experience at GLP Software (Warsaw). I design and ship end-to-end analytics solutions — from raw data extraction and validation in SQL to interactive Power BI dashboards and automated KPI reporting.
+Recent Computer Engineering graduate with 6 months of Data Analyst / BI internship experience at GLP Software (Warsaw). I design and ship end-to-end analytics solutions - from raw data extraction and validation in SQL to interactive Power BI dashboards and automated KPI reporting.
 
 I am currently open to **Junior Data Analyst, Reporting Analyst, BI Analyst, and Power BI Developer** opportunities, as well as adjacent technical roles where I can contribute immediately and continue growing on production data.
 
@@ -18,7 +18,7 @@ I am currently open to **Junior Data Analyst, Reporting Analyst, BI Analyst, and
 | **Projects** | 4 end-to-end portfolios across SQL · Power BI · Python |
 | **Data handled** | 100K+ rows across e-commerce, IT ops, survey & academic data |
 | **Core stack** | SQL · PostgreSQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Power Automate |
-| **Certifications** | HackerRank SQL (Basic → Advanced) · Data Analysis — TechPro Education |
+| **Certifications** | HackerRank SQL (Basic → Advanced) · Data Analysis - TechPro Education |
 
 ---
 
@@ -39,14 +39,12 @@ I am currently open to **Junior Data Analyst, Reporting Analyst, BI Analyst, and
 ---
 
 ## About
+I’m a Computer Engineering graduate based in Kraków with six months of Data Analyst internship experience. I mainly work with SQL, Power BI, Python, and Excel.
 
-I'm Sena — a recent Computer Engineering graduate based in Kraków, Poland, with 6 months of Data Analyst / BI internship experience at GLP Software (Warsaw). I am currently seeking **Junior Data Analyst, Reporting Analyst, BI Analyst, and Power BI Developer** roles, and I'm equally open to adjacent technical positions where I can deliver value while expanding my expertise.
+My projects focus on practical business questions such as SLA performance, sales trends, customer behavior, and reporting automation. I enjoy cleaning data, finding useful patterns, and presenting the results through clear dashboards.
 
-My work spans the full data lifecycle — not only reporting. I write production-grade SQL (CTEs, multi-table joins, conditional aggregation, window functions), engineer validated analytical datasets, model star schemas in Power BI with DAX measures and dynamic toggles, automate recurring KPI delivery with Power Automate, and apply statistical analysis in Python (Pandas, SciPy, Scikit-Learn). Across my internship and portfolio projects I have cleaned and validated 100K+ rows, handling duplicates, missing values, and outliers with documented methodology.
+I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analyst opportunities where I can grow, solve real business problems, and contribute to data-driven decisions.
 
-What motivates me most is the opportunity to learn from real business problems and to grow alongside experienced teams. I adapt quickly to new tools and domains, take ownership of what I ship, and treat every dataset as a chance to deliver measurable business impact. If your team is hiring for a data, BI, or analytics-adjacent role — even one slightly outside my current stack — I would welcome the conversation.
-
-This profile documents the projects I've built to demonstrate SQL, Power BI, and Python capabilities in realistic business contexts.
 
 ---
 
@@ -89,7 +87,7 @@ This profile documents the projects I've built to demonstrate SQL, Power BI, and
 
 **Goal:** Surface actionable commercial and operational insights from 99K Brazilian e-commerce orders for executive leadership — through a 2-page Power BI dashboard.
 
-🔗 **Repository:** [github.com/senaerdemm2/olist-ecommerce-analysis](https://github.com/senaerdemm2/olist-ecommerce-analysis)
+🔗 **Repository:** [github.com/senaerdemm2/olist-ecommerce-analysis])
 
 👉 [**View Project →**](https://github.com/senaerdemm2/olist-ecommerce-analysis)
 
@@ -111,7 +109,7 @@ This profile documents the projects I've built to demonstrate SQL, Power BI, and
 
 **Goal:** Statistically validate how remote, hybrid, and onsite work arrangements impact employee health — using a 2025 post-pandemic survey of 3,157 responses across 6 regions.
 
-🔗 **Repository:** [github.com/senaerdemm2/remote-work-health-analysis](https://github.com/senaerdemm2/remote-work-health-analysis)
+🔗 **Repository:** [github.com/senaerdemm2/remote-work-health-analysis]
 
 👉 [**View Project →**](https://github.com/senaerdemm2/remote-work-health-analysis)
 
@@ -132,7 +130,7 @@ This profile documents the projects I've built to demonstrate SQL, Power BI, and
 
 **Goal:** Determine how lifestyle factors affect academic performance — using a dataset of 1,000 student records with 16 features.
 
-🔗 **Repository:** [github.com/senaerdemm2/student-habits-academic-performance-analysis](https://github.com/senaerdemm2/student-habits-academic-performance-analysis)
+🔗 **Repository:** [github.com/senaerdemm2/student-habits-academic-performance-analysis]
 
 👉 [**View Project →**](https://github.com/senaerdemm2/student-habits-academic-performance-analysis)
 
