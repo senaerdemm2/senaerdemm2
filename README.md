@@ -1,7 +1,7 @@
 # Hi, I'm Sena 👋
 
 ### Junior Data Analyst · BI Analyst · Power BI Developer
-**SQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy)**
+**SQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Excel**
 
 Recent Computer Engineering graduate with 6 months of Data Analyst / BI internship experience at GLP Software (Warsaw). I design and ship end-to-end analytics solutions - from raw data extraction and validation in SQL to interactive Power BI dashboards and automated KPI reporting.
 
@@ -17,7 +17,7 @@ I am currently open to **Junior Data Analyst, Reporting Analyst, BI Analyst, and
 | **Experience** | 6 months Data Analyst Intern @ GLP Software (Warsaw) |
 | **Projects** | 4 end-to-end portfolios across SQL · Power BI · Python |
 | **Data handled** | 100K+ rows across e-commerce, IT ops, survey & academic data |
-| **Core stack** | SQL · PostgreSQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Power Automate |
+| **Core stack** | SQL · PostgreSQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Excel  · Power Automate |
 | **Certifications** | HackerRank SQL (Basic → Advanced) · Data Analysis - TechPro Education |
 
 ---
@@ -65,7 +65,6 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **Goal:** Build the full weekly reporting stack a support manager needs — from raw tickets in PostgreSQL to a Power BI dashboard delivered automatically to the inbox every Monday at 09:00 via Power Automate.
 
-🔗 **Repository:** [github.com/senaerdemm2/it-support-ticket-analysis](https://github.com/senaerdemm2/it-support-ticket-analysis)
 
 👉 [**View Project →**](https://github.com/senaerdemm2/it-support-ticket-analysis)
 
@@ -87,7 +86,6 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **Goal:** Surface actionable commercial and operational insights from 99K Brazilian e-commerce orders for executive leadership — through a 2-page Power BI dashboard.
 
-🔗 **Repository:** [github.com/senaerdemm2/olist-ecommerce-analysis])
 
 👉 [**View Project →**](https://github.com/senaerdemm2/olist-ecommerce-analysis)
 
@@ -109,7 +107,6 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **Goal:** Statistically validate how remote, hybrid, and onsite work arrangements impact employee health — using a 2025 post-pandemic survey of 3,157 responses across 6 regions.
 
-🔗 **Repository:** [github.com/senaerdemm2/remote-work-health-analysis]
 
 👉 [**View Project →**](https://github.com/senaerdemm2/remote-work-health-analysis)
 
@@ -130,7 +127,6 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **Goal:** Determine how lifestyle factors affect academic performance — using a dataset of 1,000 student records with 16 features.
 
-🔗 **Repository:** [github.com/senaerdemm2/student-habits-academic-performance-analysis]
 
 👉 [**View Project →**](https://github.com/senaerdemm2/student-habits-academic-performance-analysis)
 
@@ -161,11 +157,13 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **SQL & Databases:** SQL · PostgreSQL · CTEs · JOINs · Aggregations · `CASE WHEN`
 
-**Python & Visualization:** Python · Pandas · SciPy · Scikit-Learn · Plotly
+**Python & Visualization:** Python · Pandas · Numpy · SciPy · Scikit-Learn · Plotly
 
 **Statistics:** Hypothesis Testing · Chi-square · ANOVA · t-test · Linear Regression
 
-**Tools:** Excel (PivotTables, Formulas) · Jupyter Notebook · Git
+**Excel:** PivotTables · XLOOKUP · IF Functions · Conditional Formatting · Data Cleaning
+
+**Tools:** Jupyter Notebook · Git
 
 ---
 
@@ -173,13 +171,13 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 
 **Certifications:**
 - HackerRank SQL (Basic, Intermediate, Advanced)
-- Data Analysis Certificate — TechPro Education
+- Data Analysis Certificate - TechPro Education
 
 **Languages:**
 - English (B2)
 - Turkish (Native)
 
-**Volunteer:** Turkish Cultural Events, Kraków (Oct 2024 – Present)
+**Volunteer:** Turkish Cultural Events, Warsaw (Oct 2024 – July 2026)
 
 ---
 
