@@ -53,9 +53,9 @@ I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analys
 ### Data Analyst Intern
 **GLP Software** · Warsaw, Poland · Aug 2025 – Jan 2026
 
-- Developed **3+ interactive Power BI dashboards** with DAX measures, drill-through filters, and dynamic KPI toggles, enabling stakeholders to track performance across business units.
-- Improved **data quality by 30%+** through systematic cleaning and validation with Python and SQL — resolving duplicates, handling missing values, and flagging outliers across **5,000+ records**.
-- Engineered **10+ analytical datasets** using advanced SQL (CTEs, multi-table JOINs, `CASE WHEN`) and fully documented workflows for seamless handover and reproducible reporting.
+- Completed a remote, project-based internship focused on building 4 end-to-end data analysis portfolios under GLP Software sponsorship (the projects below were the deliverables): SQL, Power BI (DAX), Python (Pandas, NumPy), and reporting automation, covering 99K orders, 5K IT tickets, and 3,157 survey responses.
+- Applied the full data analysis lifecycle: data collection, cleaning, EDA, KPI modelling, and visualisation; self-directed scope, dataset selection, and methodology for each deliverable.
+- Developed interactive Power BI dashboards with DAX measures, drill-through filters, and dynamic KPI toggles; documented all pipelines on GitHub for reproducibility.
 
 ---
 
