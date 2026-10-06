@@ -1,11 +1,10 @@
 # Hi, I'm Sena 👋
 
-### Junior Data Analyst · BI Analyst · Power BI Developer
-**SQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Excel**
+### Computer Engineering Graduate | Data Analytics · BI · Automation | Python · SQL · Power BI · Excel
 
-Recent Computer Engineering graduate with 6 months of Data Analyst / BI internship experience at GLP Software (Warsaw). I design and ship end-to-end analytics solutions - from raw data extraction and validation in SQL to interactive Power BI dashboards and automated KPI reporting.
 
-I am currently open to **Junior Data Analyst, Reporting Analyst, BI Analyst, and Power BI Developer** opportunities, as well as adjacent technical roles where I can contribute immediately and continue growing on production data.
+Recent Computer Engineering graduate with hands-on experience in data analytics, reporting, automation, and Python-based projects. My core skills include SQL, Python, Power BI, Excel, and data validation.  
+Primarily seeking entry-level opportunities in Data Analytics, BI, and Reporting, while also open to selected technical roles in Software QA and Technical Support that align with my Python, validation, and problem-solving background.
 
 ---
 
