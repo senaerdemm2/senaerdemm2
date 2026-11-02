@@ -2,9 +2,9 @@
 
 ### Computer Engineering Graduate | Data Analytics · BI · Automation | Python · SQL · Power BI · Excel
 
+Computer Engineering graduate with 1 year of experience in e-commerce data analytics. I build end-to-end data pipelines in Python and SQL, validate data quality, and turn the results into dashboards and clear recommendations, from churn and marketing analysis to automated KPI reporting in Power BI.
 
-Recent Computer Engineering graduate with hands-on experience in data analytics, reporting, automation, and Python-based projects. My core skills include SQL, Python, Power BI, Excel, and data validation.  
-Primarily seeking entry-level opportunities in Data Analytics, BI, and Reporting, while also open to selected technical roles in Software QA and Technical Support that align with my Python, validation, and problem-solving background.
+I’m looking for entry-level roles in Data Analytics, BI and Reporting, and I’m also open to Software QA and Technical Support roles where my Python and data validation background fits.
 
 ---
 
@@ -12,13 +12,12 @@ Primarily seeking entry-level opportunities in Data Analytics, BI, and Reporting
 
 | | |
 |---|---|
-| **Status** | Recent grad · Open to Junior Data Analyst / BI Analyst / Reporting Analyst / Power BI Developer and adjacent technical roles |
-| **Experience** | 6 months Data Analyst Intern @ GLP Software (Warsaw) |
-| **Projects** | 4 end-to-end portfolios across SQL · Power BI · Python |
-| **Data handled** | 100K+ rows across e-commerce, IT ops, survey & academic data |
-| **Core stack** | SQL · PostgreSQL · Power BI (DAX, Power Query) · Python (Pandas, SciPy) · Excel  · Power Automate |
-| **Certifications** | HackerRank SQL (Basic → Advanced) · Data Analysis - TechPro Education |
-
+| **Status** | Computer Engineering grad (April 2026) · Open to Junior Data Analyst, BI Analyst and Reporting Analyst roles |
+| **Experience** | 1 year Data Analyst @ SOFTCOUNT (Remote, US) · Amazon e-commerce analytics |
+| **Projects** | 4 end-to-end projects across SQL · Power BI · Python |
+| **Data handled** | 300K+ records across e-commerce, IT support and HR survey data |
+| **Core stack** | SQL (PostgreSQL) · Python (Pandas, SciPy) · Power BI (DAX, Power Query) · Power Automate |
+| **Certifications** | HackerRank SQL (Basic → Advanced) · Data Analysis Certificate, TechPro Education |
 ---
 
 ## 📑 Table of Contents
@@ -38,23 +37,32 @@ Primarily seeking entry-level opportunities in Data Analytics, BI, and Reporting
 ---
 
 ## About
-I’m a Computer Engineering graduate based in Kraków with six months of Data Analyst internship experience. I mainly work with SQL, Power BI, Python, and Excel.
+## About
 
-My projects focus on practical business questions such as SLA performance, sales trends, customer behavior, and reporting automation. I enjoy cleaning data, finding useful patterns, and presenting the results through clear dashboards.
+I'm a Computer Engineering graduate based in Kraków with 1 year of experience as a Data Analyst in e-commerce analytics. I work mainly with SQL, Python and Power BI.
 
-I’m currently looking for Junior Data Analyst, BI Analyst, or Reporting Analyst opportunities where I can grow, solve real business problems, and contribute to data-driven decisions.
+In my work, I built a Python pipeline that combined 36 data sources (230K+ Amazon orders) with automated data-quality checks, and it caught a revenue error that would have inflated results by up to 26x. I then used that data to explain why sellers were cancelling their subscriptions and where ad spend was being wasted.
+
+My projects follow the same approach: start from a real business question (SLA performance, revenue concentration, employee burnout), clean and validate the data, and deliver the answer as a clear dashboard or automated report.
+
+I'm looking for Junior Data Analyst, BI Analyst or Reporting Analyst roles where careful work with data has a direct impact on decisions.
+
 
 
 ---
 
 ## Experience
 
-### Data Analyst Intern
-**GLP Software** · Warsaw, Poland · Aug 2025 – Jan 2026
+### Data Analyst
+**SOFTCOUNT** · Remote (New York, USA) · Sep 2025 – Sep 2026
+*Amazon e-commerce analytics*
 
-- Completed a remote, project-based internship focused on building 4 end-to-end data analysis portfolios under GLP Software sponsorship (the projects below were the deliverables): SQL, Power BI (DAX), Python (Pandas, NumPy), and reporting automation, covering 99K orders, 5K IT tickets, and 3,157 survey responses.
-- Applied the full data analysis lifecycle: data collection, cleaning, EDA, KPI modelling, and visualisation; self-directed scope, dataset selection, and methodology for each deliverable.
-- Developed interactive Power BI dashboards with DAX measures, drill-through filters, and dynamic KPI toggles; documented all pipelines on GitHub for reproducibility.
+- Built an end-to-end Python pipeline (Pandas, SciPy) integrating 36 raw sources (230K Amazon orders, 61K Keepa listings, ad data and 8.3K subscriber accounts) with automated data-quality checks; caught a field-definition error that inflated multi-unit revenue by up to 26x.
+- **Churn analysis:** found that sellers who never listed a product cancelled at 85% vs 57% and drove 63% of all cancellations, pointing to onboarding as the main retention lever.
+- **Marketing analytics:** audited four months of Meta and Google ad spend and traced a 69% rise in CPA mainly to a 31% drop in purchases per click; recommended daily spend caps and funnel fixes before scaling budget.
+- **Top seller analysis:** analyzed 61K listings from 12 top sellers; best-ranked listings had 35x more reviews and 3x the FBA share (75% vs 24%).
+- **Segment analysis:** showed Mexico delivered 49% of profit from 39% of orders, and proposed A/B tests to confirm causal levers.
+- **Data modeling:** delivered a data dictionary, a star-schema model, an ETL proposal, BI-ready datasets and 13 prioritized data requests to management.
 
 ---
 
