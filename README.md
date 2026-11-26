@@ -4,7 +4,7 @@
 
 Computer Engineering graduate with 1 year of experience in e-commerce data analytics. I build end-to-end data pipelines in Python and SQL, validate data quality, and turn the results into dashboards and clear recommendations, from churn and marketing analysis to automated KPI reporting in Power BI.
 
-I’m looking for entry-level roles in Data Analytics, BI and Reporting, and I’m also open to Software QA and Technical Support roles where my Python and data validation background fits.
+
 
 ---
 
