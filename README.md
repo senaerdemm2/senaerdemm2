@@ -45,7 +45,7 @@ In my work, I built a Python pipeline that combined 36 data sources (230K+ Amazo
 
 My projects follow the same approach: start from a real business question (SLA performance, revenue concentration, employee burnout), clean and validate the data, and deliver the answer as a clear dashboard or automated report.
 
-I'm looking for Junior Data Analyst, BI Analyst or Reporting Analyst roles where careful work with data has a direct impact on decisions.
+I'm looking for  Data Analyst, BI Analyst or Reporting Analyst roles where careful work with data has a direct impact on decisions.
 
 
 
